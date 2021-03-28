@@ -16,3 +16,7 @@ Get the code in the repository
 
 #End Screen: when snake touch end of screen or its own body
 ![image](https://user-images.githubusercontent.com/81143895/112754582-51172780-8ffa-11eb-867e-73c91774fe4b.png)
+
+
+Acknowledgement:
+Learnt from Pygame Tutorial in Youtube
